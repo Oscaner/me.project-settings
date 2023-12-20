@@ -4,6 +4,7 @@
   "notebook.codeActionsOnSave": {
     "source.organizeImports": true
   },
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
   "[python]": {
     "editor.codeActionsOnSave": {
       "source.organizeImports": true
